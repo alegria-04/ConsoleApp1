@@ -10,6 +10,9 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
+            var XXX = Console.ReadLine();
+            Console.WriteLine(XXX);
+            Console.ReadLine();
         }
     }
 }
